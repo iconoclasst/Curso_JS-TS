@@ -1,0 +1,19 @@
+.pai h1~p {
+    background-color: rgba(0,0,0,0.3);
+}
+
+[meu-atributo] {
+    color: red;
+}
+
+[checked] {
+    color: blue;
+}
+
+.heading {
+    transition: all 1s ease-in-out;
+}
+
+.heading:hover {
+    background-color: blue;
+}
