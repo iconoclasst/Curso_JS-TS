@@ -1,0 +1,41 @@
+html {
+    font-size: 100%;
+    scroll-behavior: smooth;
+}
+
+* {
+    margin: 0;
+    padding: 0;
+}
+.pai {
+    width: 50rem;
+    height: 100vh;
+    /* height: 30rem; */
+    background-color: red;
+}
+
+.pai > div {
+    width: 50%;
+    height: 50rem;
+    /* height: 30rem; */
+    background-color: blue;
+}
+
+.color-one {
+    width: 100vw;
+    height: 100vh;
+    /* height: 30rem; */
+    background-color: purple;
+}
+
+.color-two {
+    width: 100vw;
+    height: 100vh;
+    /* height: 30rem; */
+    background-color: yellow;
+}
+
+p {
+    font-size: 1em;
+}
+
